@@ -12,3 +12,4 @@
 /Users/milosz/Documents/Studia/Semestr 2/Programowanie obiektowe /PO_PB/PS06/ConsoleApp06_Dodatkowe/obj/Debug/net9.0/ConsoleApp06_Dodatkowe.pdb
 /Users/milosz/Documents/Studia/Semestr 2/Programowanie obiektowe /PO_PB/PS06/ConsoleApp06_Dodatkowe/obj/Debug/net9.0/ConsoleApp06_Dodatkowe.genruntimeconfig.cache
 /Users/milosz/Documents/Studia/Semestr 2/Programowanie obiektowe /PO_PB/PS06/ConsoleApp06_Dodatkowe/obj/Debug/net9.0/ref/ConsoleApp06_Dodatkowe.dll
+/Users/milosz/Documents/Studia/Semestr 2/Programowanie obiektowe /PO_PB/PS06/ConsoleApp06_Dodatkowe/obj/Debug/net9.0/ConsoleApp06_Dodatkowe.sourcelink.json

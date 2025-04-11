@@ -12,3 +12,4 @@
 /Users/milosz/Documents/Studia/Semestr 2/Programowanie obiektowe /PO_PB/PS03/ConsoleApp03/obj/Debug/net9.0/ConsoleApp03.pdb
 /Users/milosz/Documents/Studia/Semestr 2/Programowanie obiektowe /PO_PB/PS03/ConsoleApp03/obj/Debug/net9.0/ConsoleApp03.genruntimeconfig.cache
 /Users/milosz/Documents/Studia/Semestr 2/Programowanie obiektowe /PO_PB/PS03/ConsoleApp03/obj/Debug/net9.0/ref/ConsoleApp03.dll
+/Users/milosz/Documents/Studia/Semestr 2/Programowanie obiektowe /PO_PB/PS03/ConsoleApp03/obj/Debug/net9.0/ConsoleApp03.sourcelink.json
